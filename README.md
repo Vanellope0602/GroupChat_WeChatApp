@@ -3,9 +3,8 @@
 [TOC]
 
 一款面向北航本科的群组学习软件
-
+（包含注册登录，群聊功能，爬取课表并展示，日程管理，写学习帖子并在群组中分享等功能）
 去往管理端：https://github.com/RedRevolution/LearnForFun-Web
-
 
 
 更新记录
